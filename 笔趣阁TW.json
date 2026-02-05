@@ -1,0 +1,22 @@
+{
+  "bookSourceGroup": "自建",
+  "bookSourceName": "笔趣阁TW",
+  "bookSourceType": 0,
+  "bookSourceUrl": "https://www.biquge.tw",
+  "ruleContent": {
+    "content": "id.content@html"
+  },
+  "ruleExplore": [],
+  "ruleSearch": {
+    "author": "tag.td.2@text",
+    "bookList": "class.grid@tag.tr[!0]",
+    "bookUrl": "tag.a.0@href",
+    "name": "tag.a.0@text"
+  },
+  "ruleToc": {
+    "chapterList": "id.list@tag.dd",
+    "chapterName": "tag.a@text",
+    "chapterUrl": "tag.a@href"
+  },
+  "searchUrl": "/modules/article/search.php?searchkey={{key}},{\"charset\": \"gbk\"}"
+}
